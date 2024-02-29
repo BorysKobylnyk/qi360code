@@ -1,0 +1,7 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: QI360Code
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
